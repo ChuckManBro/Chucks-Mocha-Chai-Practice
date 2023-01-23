@@ -1,0 +1,15 @@
+{
+  "name": "code-testing-practice",
+  "version": "1.0.0",
+  "description": "Chuck's 1st attempt at using npm mocha chai",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Cook",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
